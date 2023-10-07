@@ -8,7 +8,7 @@ The BatchFileSweeper is a Java-based utility for deleting files and directories 
 - Configurable via a properties file, allowing you to customize the behavior for different batches.
 
 ## Prerequisites
-Before running the BatchJobSweeper, make sure you have the following prerequisites installed:
+Before running the BatchFileSweeper, make sure you have the following prerequisites installed:
 - Java Development Kit (JDK) 8 or higher.
 
 ## Usage
@@ -27,7 +27,7 @@ The Batch File Deletion Job is configured using a properties file.
    
    > Path2=C:\path\to\target\directory2
 
-2. Java Installation Path / Classpath and Compilation (BatchJobSweeper.bat):
+2. Java Installation Path / Classpath and Compilation (BatchFileSweeper.bat):
    Set the JAVA_HOME variable to the directory where your Java installation / Files is located.
    > set "JAVA_HOME=C:\path\to\your\java\installation"
    
